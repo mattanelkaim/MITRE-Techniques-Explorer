@@ -15,8 +15,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
+## Demonstation
+https://github.com/user-attachments/assets/90403ca2-8209-4040-8cf2-b65da86d2e7b
+
+
 ## Landing Page
-![image](https://github.com/user-attachments/assets/69e19aa2-0d5b-4110-8914-6e9834742d77)
+<img width="1919" height="1031" alt="first" src="https://github.com/user-attachments/assets/d1c95cda-b50a-42eb-a000-8c585b3cfe17" />
+
 
 ## Chatbot
-![image](https://github.com/user-attachments/assets/32e92de5-8a7f-482b-9ec6-2ee8c38bd212)
+<img width="594" height="804" alt="second" src="https://github.com/user-attachments/assets/b7fede45-d37b-4be3-a709-65a71bf4bc7c" />
